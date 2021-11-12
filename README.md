@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Linkartoon
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning OpenCV, telegram bot for game automation
+- 👋 Hi, I’m @gb4dev
+- 👀 I’m interested in automation & gamedev
+- 🌱 I’m currently making projects
 - 💞️ I’m looking to collaborate on (no idea)
 - 📫 How to reach me ... send message
 
